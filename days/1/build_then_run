@@ -1,0 +1,2 @@
+gcc count_reading_increases.c -o count_reading_increases
+./count_reading_increases
